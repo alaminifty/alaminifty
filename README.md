@@ -1,97 +1,192 @@
-<h3>Hi There! Myself, </h3> 
+<!-- ========================= -->
+<!-- HERO BANNER -->
+<!-- ========================= -->
 
-![Al-Amin ifty](https://github.com/ifty54/ifty54/assets/31790027/88b06667-8d3d-4a1b-a530-d439078bb712)
+<p align="center">
+  <img 
+    src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&w=1600&auto=format&fit=crop"
+    alt="Data Science Banner"
+  />
+</p>
 
-I'm passionate doing research on advanced Deep Learning technologies to solve real-world problems.
+<h1 align="center">Al-Amin Ifty</h1>
 
-Whether it's developing new deep learning models for detecting and classifying cyberattacks, improving the robustness of deep learning models to adversarial attacks, or using deep learning to design new cryptographic algorithms and protocols, I'm excited to explore all the possibilities.
+<p align="center">
+Applied Mathematics • Machine Learning • Research-Oriented Data Science
+</p>
 
-Interested in collaborating on interesting and challenging cybersecurity research projects? let's chat!
+<p align="center">
+I explore structure in data, build learning systems, and connect mathematical thinking with real-world problems.
+</p>
 
-![Al-Amin ifty](https://github.com/ifty54/ifty54/assets/31790027/d2a243e8-922e-45bc-979f-bceefb91099c)
+---
 
-Data Scientist- Business Automation Ltd.
+<!-- ========================= -->
+<!-- SOCIAL LINKS (SQUARE ICONS) -->
+<!-- ========================= -->
 
-Data Analytics Intern- MedTourEasy
+<p align="center">
+  <a href="https://alaminifty.com">
+    <img 
+      src="https://alaminifty.com/wp-content/uploads/2025/12/Al-Amin-Ifty-Logo-1.webp"
+      alt="Portfolio"
+      width="36"
+      height="36"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/alaminifty/">
+    <img 
+      src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+      alt="LinkedIn"
+      width="36"
+      height="36"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.researchgate.net/profile/Al-Amin-Ifty/">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg"
+      alt="ResearchGate"
+      width="36"
+      height="36"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ifty.alamin54@gmail.com">
+    <img 
+      src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
+      alt="Email"
+      width="36"
+      height="36"
+    />
+  </a>
+</p>
 
-Data Analyst Intern- Dry Code
+---
 
-![Al-Amin ifty (1)](https://github.com/ifty54/ifty54/assets/31790027/a483ec55-a036-4374-9376-4a64a3a21593)
+<!-- ========================= -->
+<!-- PROFILE + INTRO -->
+<!-- ========================= -->
 
-⏩ Cybersecurity
+<table>
+<tr>
+<td width="65%">
 
-⏩ Computer Vision
+### About
 
-⏩ Adversarial Machine Learning
+I work at the intersection of **applied mathematics and machine learning**, with a strong interest in understanding *why* models behave the way they do — not just whether they perform well.
 
-⏩ Generative Adversarial Network (GANs)
+My background in mathematics influences how I approach problems:
+I care about structure, assumptions, interpretability, and robustness.
 
+Most of my work lives between:
+- statistical reasoning  
+- machine learning experimentation  
+- research-driven problem solving  
 
-![Al-Amin ifty (2)](https://github.com/ifty54/ifty54/assets/31790027/6aa9e86b-dbe0-4b13-b429-e866e29a1940)
+</td>
+<td width="35%" align="center">
 
-👉 _A Characterization of Flat Meet Semilattices_
+<img 
+  src="YOUR_PROFILE_IMAGE_URL_HERE"
+  width="260"
+  alt="Al-Amin Ifty"
+/>
 
-https://www.researchgate.net/publication/359397706_A_Characterization_of_Flat_Meet_Semilattices 
+</td>
+</tr>
+</table>
 
-![Al-Amin ifty (11)](https://github.com/ifty54/ifty54/assets/31790027/6d6d359b-1604-4134-9956-81c84c8565a8)
+---
 
-👉 _Skin Disease Detection using CNN_ (Deep Learning Project) 
+<!-- ========================= -->
+<!-- CURRENT WORK -->
+<!-- ========================= -->
 
-https://github.com/GigBig-Analytics/CNN-based-Skin-Cancer-Disease-Detection-Using-Ham10000-Dataset
+## What I’m working on
 
-![Al-Amin ifty (6)](https://github.com/ifty54/ifty54/assets/31790027/f5445173-e867-4ce2-9bc6-024445db1713)
+- Machine learning models for structured and real-world data  
+- Exploratory data analysis as a core research tool  
+- Deep learning for vision and pattern recognition  
+- Translating mathematical ideas into practical ML systems  
 
-👉 _Dynamic Website Development_ (PHP Project)
+I recently worked as a **Young Professional (Data Science)** at **Business Automation Ltd.**, contributing to data preprocessing, modeling, and analytical workflows.
 
-![Al-Amin ifty (9)](https://github.com/ifty54/ifty54/assets/31790027/7a024f1f-e2a9-4696-b3d2-b9bf0604ad42)
+---
 
-### GigBig Analytics `Since 2023` | Project Six Four `Since 2019`
+<!-- ========================= -->
+<!-- RESEARCH BANNER -->
+<!-- ========================= -->
 
-![Untitled design (1)](https://github.com/ifty54/ifty54/assets/31790027/c8642eed-bedc-4f0d-bf13-a1ea1e1f4f56)
+<p align="center">
+  <img 
+    src="https://images.unsplash.com/photo-1534759846116-5799c33ce22a?q=80&w=1600&auto=format&fit=crop"
+    alt="Research Banner"
+  />
+</p>
 
-![Al-Amin ifty (12)](https://github.com/ifty54/ifty54/assets/31790027/4f397d8d-5195-430a-ab80-252588627d24)
+## Research direction
 
-![Untitled design (3)](https://github.com/ifty54/ifty54/assets/31790027/6018d730-db35-4f7f-b47f-7d45909b6e8e)
+I’m interested in research problems where **mathematics, data, and intelligent systems intersect**, including:
 
-![Al-Amin ifty (7)](https://github.com/ifty54/ifty54/assets/31790027/5e2fabdd-10e8-4682-a994-a98580620a85)
+- applied mathematical structures and graph-based ideas  
+- machine learning and predictive modeling  
+- computer vision with deep neural networks  
+- **retrieval-augmented generation (RAG)** and knowledge-grounded AI systems  
 
-*Technical Content Developer* & *Intern*- `Rank Wizards LLC` `2022`
+My recent and ongoing work includes:
+- mathematical characterization of algebraic structures  
+- CNN-based predictive modeling using satellite imagery  
+- ransomware detection using machine learning  
+- exploring RAG pipelines for combining retrieval systems with language models  
 
-*Technical Content Writer* - `Muskly` `2020-21`
+---
 
-*Content Intern* - `Youth School for Social Entrepreneurs (YSSE)` `2020`
+<!-- ========================= -->
+<!-- PROJECTS -->
+<!-- ========================= -->
 
-*Campus Ambassador* - `Youth Opportunities (YO)` `2020`
+## Selected explorations
 
-*Campus Ambassador* - `Bangladesh Youth Leadership Center (BYLC)` `2019`
+- Customer churn prediction using neural networks  
+- Image segmentation with deep learning  
+- Tumor diagnosis through exploratory data analysis  
+- Sentiment analysis on Reddit data using TF-IDF  
 
-*Changemaking Intern* - `Ashoka` `2018`
+These projects emphasize **analysis, modeling decisions, and evaluation**, not just output metrics.
 
-With expertise in `Search Engine Optimization`, I have done several Client projects and Freelancing at Marketplaces including `Fiverr`, `Upwork`. But talking about Artificial Intelligence, it always has been on my radar to go with!
+---
 
-Reach me at ifty.alamin54@gmail.com or alamin58@student.sust.edu
+<!-- ========================= -->
+<!-- TOOLING -->
+<!-- ========================= -->
 
-![Al-Amin ifty (13)](https://github.com/ifty54/ifty54/assets/31790027/4a395c51-9ae3-4aae-b212-b532e147db81)
+## Tools & workflow
 
-![Al-Amin ifty (14)](https://github.com/ifty54/ifty54/assets/31790027/8376533c-4326-4f15-ad6c-b15edc646e61)
+I mainly work with:
+- Python for analysis and modeling  
+- NumPy and Pandas for data handling  
+- TensorFlow for deep learning  
+- Matplotlib and Seaborn for visualization  
+- SQL and NoSQL databases when required  
 
-![Al-Amin ifty (8)](https://github.com/ifty54/ifty54/assets/31790027/bdc0fb03-e94e-4e59-b85f-5d5c21bbea35)
+Tools matter, but **clear thinking and sound assumptions matter more**.
 
-<a href="https://www.linkedin.com/in/ifty54/">
-  <img src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-z5dvl47c.png" alt="LinkedIn" width="50" height="50">
-</a>
-<a href="https://www.researchgate.net/profile/Al-Amin-Ifty/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1200px-ResearchGate_icon_SVG.svg.png" alt="ResearchGate" width="50" height="50">
-</a>
-<a href="https://medium.com/@ifty54">
-  <img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="Medium" width="50" height="50">
-</a>
-<a href="https://www.facebook.com/ifty.bd54">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/2048px-Facebook_f_logo_%282021%29.svg.png" alt="Facebook" width="50" height="50">
-</a>
-<a href="https://www.threads.net/@iift_ee">
-  <img src="https://seeklogo.com/images/T/threads-by-instagram-logo-20008C5295-seeklogo.com.png?v=638243447960000000" alt="Threads" width="50" height="50">
-</a>
-<a href="https://www.youtube.com/channel/UCTjmyVg8VUgo7cUgzRHO9Kw">
-  <img src="https://img.freepik.com/free-icon/youtube_318-183441.jpg" alt="YouTube" width="50" height="50">
-</a>
+---
+
+<!-- ========================= -->
+<!-- GITHUB STATS -->
+<!-- ========================= -->
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ifty54&show_icons=true&hide_title=true"
+  />
+</p>
+
+---
+
+<p align="center">
+  I’m always open to research collaboration, thoughtful discussions, and challenging data problems.
+</p>
