@@ -217,34 +217,6 @@ https://www.linkedin.com/company/gigbig-analytics/
 
 ---
 
-<!-- ========================= -->
-<!-- GITHUB STATS -->
-<!-- ========================= -->
-
-## GitHub Activity & Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=alaminifty&show_icons=true&hide_title=true&count_private=true" 
-    height="165"
-  />
-  &nbsp;&nbsp;
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaminifty&layout=compact" 
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=alaminifty" 
-    width="500"
-  />
-</p>
-
-
----
-
 ## Let’s Connect
 
 I am open to:
